@@ -1,0 +1,28 @@
+
+                IDEF
+
+Diese in Python niedergeschriebene Idee kann z.B.
+mit GFORTH genutzt werden:
+
+  http://www.python.org/download/   (Python 2.7.9)
+  http://www.wxpython.org/    (wxPython 2.8.12.1)
+
+  http://www.complang.tuwien.ac.at/forth/gforth/
+
+Eine Ankoppelung an GFORTH und KFORTH haben funktioniert,
+BIGFORTH dagegen funktionierte nicht richtig.
+
+
+In diesem Zusammenhang ist mir aufgefallen, dass es sicher 
+interessant waere FORTH auch eine wenig "umweltfreundlich"
+zu gestalten.
+Evtl. sollte man mal darueber nachdenken, wxWidgets
+
+  http://www.wxwidgets.org/
+
+fuer FORTH verfuegbar zu machen...
+
+
+gerd
+2015
+
